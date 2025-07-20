@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">🎓 Final-year Electronics & Communication Engineering student  <br>💻 Passionate about Frontend Development and building user-friendly web experiences  <br>🌍 Currently exploring React.js, backend basics, and real-world project development  <br>🛠️ Projects: Smart Blind Stick, Sudoku Solver, Tourixa Travel Website, and more  <br>🌱 Always learning and improving, with a focus on clean design and functional interfaces  <br>🤝 Open to collaborations, internships, and exciting software opportunities</p>
+<p align="left">Electronics & Communication Engineering student  <br>💻 Passionate about Frontend Development and building user-friendly web experiences  <br>🌍 Currently exploring React.js, backend basics, and real-world project development  <br>🛠️ Projects: Smart Blind Stick, Sudoku Solver, Tourixa Travel Website, and more  <br>🌱 Always learning and improving, with a focus on clean design and functional interfaces  <br>🤝 Open to collaborations, internships, and exciting software opportunities</p>
 
 ###
 
